@@ -1,4 +1,4 @@
-package com.bianxj.androidjava.widget;
+package com.bianxj.widget;
 
 import android.content.Context;
 import android.os.Build;

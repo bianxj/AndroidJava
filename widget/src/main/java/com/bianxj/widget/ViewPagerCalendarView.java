@@ -1,4 +1,4 @@
-package com.bianxj.androidjava.widget;
+package com.bianxj.widget;
 
 import android.content.Context;
 import android.content.res.TypedArray;
@@ -14,8 +14,6 @@ import androidx.recyclerview.widget.GridLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 import androidx.viewpager.widget.PagerAdapter;
 import androidx.viewpager.widget.ViewPager;
-
-import com.bianxj.androidjava.R;
 
 import java.util.ArrayList;
 import java.util.Calendar;
